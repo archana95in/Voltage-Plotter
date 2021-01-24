@@ -1,0 +1,10 @@
+https://github.com/jontio/FastFIR
+https://www.youtube.com/watch?v=5ENvNtYhoPM
+https://www.youtube.com/watch?v=wXMr6ByFFVI
+https://www.youtube.com/watch?v=UD78xyKbrfk
+https://www.qcustomplot.com/index.php/support/forum/1972
+https://forum.qt.io/category/10/general-and-desktop
+https://svenssonjoel.github.io/pages/qt_serial_datacollection/index.html
+https://hackaday.io/project/5334-serialplot-realtime-plotting-software
+https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA
+https://forum.qt.io/topic/97851/qt-creator-serial-port-plotter and many more...
