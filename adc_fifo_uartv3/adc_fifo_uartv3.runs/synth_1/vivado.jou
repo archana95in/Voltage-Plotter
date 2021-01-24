@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Jan 19 09:57:03 2021
+# Process ID: 1016
+# Current directory: C:/Users/Archana Narayanan/adc_fifo_uartv3/adc_fifo_uartv3.runs/synth_1
+# Command line: vivado.exe -log main.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source main.tcl
+# Log file: C:/Users/Archana Narayanan/adc_fifo_uartv3/adc_fifo_uartv3.runs/synth_1/main.vds
+# Journal file: C:/Users/Archana Narayanan/adc_fifo_uartv3/adc_fifo_uartv3.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source main.tcl -notrace
